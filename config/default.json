@@ -1,0 +1,12 @@
+{
+    "bot": {
+        "microsoftAppId": "b6f8e97e-5edc-4ade-a9ab-086e04d4773e",
+        "microsoftAppPassword": "nphTHO79!]koqtDJDR690$@"
+	},
+	"qna": {
+		"knowledgeBaseId": "12bc2482-bfc6-45f3-8eaf-9ad53a835272", 
+		"authKey": "3927a659-f176-437f-9382-9edb228e7ac4",
+		"endPoint": "https://qnatestappypf.azurewebsites.net/qnamaker",
+		"top": "3"
+    }
+}
