@@ -2,7 +2,7 @@
     "$schema": "https://statics.teams.microsoft.com/sdk/v1.0/manifest/MicrosoftTeams.schema.json",
     "manifestVersion": "1.0",
     "version": "1.0.2",
-    "id": "b6f8e97e-5edc-4ade-a9ab-086e04d4773e",
+    "id": "yourAppID",
     "packageName": "com.nikipiojo.PruebaBot",
     "developer": {
         "name": "juan.ruggera",
