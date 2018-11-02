@@ -1,0 +1,40 @@
+{
+    "$schema": "https://statics.teams.microsoft.com/sdk/v1.0/manifest/MicrosoftTeams.schema.json",
+    "manifestVersion": "1.0",
+    "version": "1.0.2",
+    "id": "b6f8e97e-5edc-4ade-a9ab-086e04d4773e",
+    "packageName": "com.nikipiojo.PruebaBot",
+    "developer": {
+        "name": "juan.ruggera",
+		"websiteUrl": "https://blogjjr.sharepoint.com",
+        "privacyUrl": "https://blogjjr.sharepoint.com/privacy",
+        "termsOfUseUrl": "https://blogjjr.sharepoint.com/termsofuse"
+    },
+    "name": {
+        "short": "PruebaBot",
+        "full": "PruebaBot for Microsoft Teams"
+    },
+    "description": {
+        "short": "PruebaBot for Microsoft Teams",
+        "full": "Bot App"
+    },
+    "icons": {
+        "outline": "contoso20x20.png",
+        "color": "contoso96x96.png"
+    },
+    "accentColor": "#60A18E",
+	"staticTabs": [],
+    "configurableTabs": [],
+    "bots": [{
+        "botId": "b6f8e97e-5edc-4ade-a9ab-086e04d4773e",
+        "needsChannelSelector": false,
+        "isNotificationOnly": false,
+        "scopes": [
+            "team",
+            "personal"
+        ]
+    }],
+	"composeExtensions": [],
+    "permissions": [],
+    "validDomains": []
+}
